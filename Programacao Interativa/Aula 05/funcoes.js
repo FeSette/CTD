@@ -57,7 +57,7 @@ console.log(tipoDado(123));
 
 // Ex 9.
 function raio(x) {
-    return (( 2 * Math.PI) * x ).toFixed(2);
+    return (2 * Math.PI * x).toFixed(2);
 };
 
 console.log(raio(5));
