@@ -1,21 +1,3 @@
-// Micro Desafio 1
-
-function teste1(x,y){
-    return y - x;
-};
-
-console.log(teste1(10,40));
-
-// Micro Desafio 2
-
-function teste2(x,y){
-    return x * 2;
-    console.log(x);
-    return x / 2;
-};
-
-console.log(teste2(10));
-
 // Funções Simples
 // Ex 1.
 function convert(x) {
