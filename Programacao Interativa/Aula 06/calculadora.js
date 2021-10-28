@@ -28,7 +28,6 @@ console.log('Divisão: '+ divisao(10,5));
 
 function quadradoDoNumero(x){
     let quadrado =  multiplicacao(x,x);
-    //let quadrado = Math.pow(x,2);
     return console.log('O quadrado do número '+x+' é: '+quadrado);
 };
 
