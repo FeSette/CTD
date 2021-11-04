@@ -2,6 +2,7 @@
 // O operador "=" serve para atribuir o valor 40 a uma variável chamada "idade"
 
 let idade = 40;
+idade = 28;
 
 
 // ------------ ARITMÉTICOS ------------ //
