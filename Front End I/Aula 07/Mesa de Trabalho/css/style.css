@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&family=Oswald:wght@700&display=swap');
+* {
+    box-sizing: border-box;
+    margin: 0;
+}
+
+body div {
+    background-image: url('../img/Banner.jpg.jpg');
+    width: 1280px;
+    height: 720px;
+    background-position: center;
+    text-align: center;
+}
+
+.titulo {
+    padding-top: 20px;
+    margin-bottom: -20px;
+    text-align: center;
+    font-family: 'Oswald', sans-serif;
+    font-size: 82px;
+}
+
+.sub {
+    
+    text-align: center;
+    font-family: 'Dancing Script', cursive;
+    font-size: 32px;
+}
