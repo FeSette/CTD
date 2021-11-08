@@ -26,3 +26,8 @@ body div {
     font-family: 'Dancing Script', cursive;
     font-size: 32px;
 }
+
+button {
+    position: relative;
+    top: 440px;
+}
