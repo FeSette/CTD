@@ -1,0 +1,13 @@
+* {
+    box-sizing: border-box;
+  }
+
+  #div1 {
+    width: 150px;
+    height: 150px;
+    padding: 40px;
+    border: black 5px solid;
+    background-color: coral;
+    font-size: px;
+    text-align: center;
+  }
