@@ -1,0 +1,69 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&family=Roboto:ital,wght@1,700&display=swap');
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    border: 0;
+    padding: 0;
+  }
+
+body {
+      background-image: url('../img/img1.jpg');
+      background-position: top;
+      background-attachment: fixed;
+      width: 100%px;
+}
+  
+header {
+      font-family: 'Roboto', sans-serif;
+      padding-top: 20px;
+      font-size: 60px;
+      text-align: center;
+      color: rgb(255, 255, 255);
+}
+
+main {
+    text-align: center;
+}
+
+.descrição {
+    font-family: 'Open Sans', sans-serif;
+    padding-top: 20px;
+    font-size: 22px;
+    color: rgb(255, 255, 255);
+    font-weight: lighter;
+}
+
+.video {
+    padding-top: 30px;
+}
+
+.curiosidades h1 {
+    padding-top: 30px;
+    padding-bottom: 12px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 60px;
+    color: rgb(255, 255, 255);
+}
+
+.curiosidades {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 22px;
+    font-weight: lighter;
+    color: #ffffff;
+}
+
+.rodapé {
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    color: #ffffff;
+    font-size: 30px;
+    padding-top: 100px;
+}
+
+.ícones {
+    padding-top: 20;
+    margin: 20px;
+    width: 70px;
+    height: 70px;
+}
